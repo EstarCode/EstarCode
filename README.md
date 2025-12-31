@@ -60,20 +60,19 @@ Driven by continuous learning and innovation, I aim to bridge strong theoretical
 
 📫 **Connect With Me**
 ![GitHub](https://github.com/EstarCode)
-![LinkedI](https://www.linkedin.com/in/abraham-tiruneh)
-![LeetCod](https://https://leetcode.com/u/Abetcom/)
+![LinkedIn](https://www.linkedin.com/in/abraham-tiruneh)
+![LeetCode](https://https://leetcode.com/u/Abetcom/)
 
 ---
 
 📫 **How to Reach Me**
-- 📧 Email: abraham.tiruneh@example.com  
-- Telegram / WhatsApp: (optional – add if you want)
+- 📧 Email: abrahamtiruneh12@gmail.com  
 
 ---
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbrahamTiruneh&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EstarCode&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
