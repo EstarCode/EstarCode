@@ -59,9 +59,9 @@ Driven by continuous learning and innovation, I aim to bridge strong theoretical
 ---
 
 📫 **Connect With Me**
-![GitHub](https://github.com/AbrahamTiruneh)
+![GitHub](https://github.com/EstarCode)
 ![LinkedI](https://www.linkedin.com/in/abraham-tiruneh)
-![LeetCod](https://leetcode.com/u/abrahamtiruneh)
+![LeetCod](https://https://leetcode.com/u/Abetcom/)
 
 ---
 
