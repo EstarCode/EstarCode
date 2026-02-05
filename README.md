@@ -72,7 +72,7 @@ Driven by continuous learning and innovation, I aim to bridge strong theoretical
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EstarCode&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EstarCode&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/EstarCode/github-profile-trophy)
 
 ---
 
