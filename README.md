@@ -77,7 +77,7 @@ Driven by continuous learning and innovation, I aim to bridge strong theoretical
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstarCode&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=EstarCode&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstarCode&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estare&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Estare&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estare&layout=compact&theme=radical)
 ---
