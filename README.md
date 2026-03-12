@@ -75,9 +75,3 @@ Driven by continuous learning and innovation, I aim to bridge strong theoretical
 [![trophy](https://github-profile-trophy.vercel.app/?username=EstarCode&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/EstarCode/github-profile-trophy)
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=''&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=''&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=''&layout=compact&theme=radical)
----
