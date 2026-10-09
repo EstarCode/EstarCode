@@ -9,8 +9,8 @@
   </a>
 
   <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=EstarCode&label=Profile%20Views&color=38BDF8&style=flat-square">
-      <img src="https://komarev.com/ghpvc/?username=EstarCode&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+    <a href="https://komarev.com/ghpvc/?username=AbrahamTiruneh&label=Profile%20Views&color=38BDF8&style=flat-square">
+      <img src="https://komarev.com/ghpvc/?username=AbrahamTiruneh&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Expertise-Full--Stack%20%7C%20GenAI%20%7C%20ML-blueviolet?style=flat-square" alt="Expertise" />
